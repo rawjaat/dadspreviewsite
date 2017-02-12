@@ -188,6 +188,9 @@ td,
 th {
   padding: 0;
 }
+.pdiddy {
+	padding-bottom: 40px;
+}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -1116,6 +1119,8 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 .img-rounded {
   border-radius: 6px;
@@ -4879,7 +4884,7 @@ a.badge:focus {
 .thumbnail {
   display: block;
   padding: 4px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   line-height: 1.42857143;
   background-color: #fff;
   border: 1px solid #ddd;
