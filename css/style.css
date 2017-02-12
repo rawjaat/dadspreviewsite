@@ -142,9 +142,9 @@ font-weight: 900;
 }
 
 #tf-page{
-	background: url(../img/01.jpg);
+	background: url(../img/01b.jpg);
 	background-size: cover;
-	background-position: left;
+	background-position: left top;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	color: #cfcfcf;
